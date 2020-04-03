@@ -1,0 +1,11 @@
+C:\mgu2\az3\bin\Debug\netcoreapp3.1\mgu2.exe
+C:\mgu2\az3\bin\Debug\netcoreapp3.1\mgu2.deps.json
+C:\mgu2\az3\bin\Debug\netcoreapp3.1\mgu2.runtimeconfig.json
+C:\mgu2\az3\bin\Debug\netcoreapp3.1\mgu2.runtimeconfig.dev.json
+C:\mgu2\az3\bin\Debug\netcoreapp3.1\mgu2.dll
+C:\mgu2\az3\bin\Debug\netcoreapp3.1\mgu2.pdb
+C:\mgu2\az3\obj\Debug\netcoreapp3.1\mgu2.csprojAssemblyReference.cache
+C:\mgu2\az3\obj\Debug\netcoreapp3.1\mgu2.AssemblyInfoInputs.cache
+C:\mgu2\az3\obj\Debug\netcoreapp3.1\mgu2.AssemblyInfo.cs
+C:\mgu2\az3\obj\Debug\netcoreapp3.1\mgu2.dll
+C:\mgu2\az3\obj\Debug\netcoreapp3.1\mgu2.pdb
